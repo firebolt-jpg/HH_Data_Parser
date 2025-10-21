@@ -2,7 +2,7 @@
 
 ETL пайплайн для парсинга вакансий аналитиков данных с HH.ru с использованием Apache Airflow.
 
-## Стек технологий
+## Стек
 - Apache Airflow 2.11.0
 - PostgreSQL 18
 - Python 3.12
@@ -10,7 +10,7 @@ ETL пайплайн для парсинга вакансий аналитико
 
 ## Быстрый запуск
 ```bash
-git clone <https://github.com/firebolt-jpg/HH_Data_Parser>
+git clone https://github.com/firebolt-jpg/HH_Data_Parser
 cd hh_parser
 
 # Запуск проекта
