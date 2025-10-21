@@ -10,7 +10,7 @@ ETL пайплайн для парсинга вакансий аналитико
 
 ## Быстрый запуск
 ```bash
-git clone <repository-url>
+git clone <https://github.com/firebolt-jpg/HH_Data_Parser>
 cd hh_parser
 
 # Запуск проекта
